@@ -65,6 +65,24 @@ Identify **why rides are failing** and suggest **data-driven solutions**.
 
 ---
 
+## 📊 Sample Visualizations
+
+These visualizations support the key insights derived from the dataset:
+
+### Ride Status Distribution
+
+![Status](status_chart.png)
+
+### Hourly Demand
+
+![Demand](hourly_demand.png)
+
+### Pickup vs Status
+
+![Pickup](pickup_status.png)
+
+---
+
 ## 💡 Conclusion
 
 This project shows how data can be used to:
